@@ -1,0 +1,15 @@
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Zillionaire.exe.config
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Zillionaire.exe
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Zillionaire.pdb
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.csprojResolveAssemblyReference.cache
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.Properties.Resources.resources
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.csproj.GenerateResource.Cache
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.csproj.CoreCompileInputs.cache
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.exe
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.pdb
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.Form1.resources
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\obj\Debug\Zillionaire.StartPage.resources
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Database1.mdf
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Database1_log.ldf
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Database2.mdf
+C:\Users\Emeka\source\repos\Zillionaire\Zillionaire\bin\Debug\Database2_log.ldf
